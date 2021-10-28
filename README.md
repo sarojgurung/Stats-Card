@@ -65,7 +65,7 @@ Adjusting an element in the middle of the page is always something you have to g
 ## Author
 
 - Website - [Saroj Gurung](https://www.sarojgurung.com)
-- Frontend Mentor - [@yourusername](hhttps://www.frontendmentor.io/profile/Sarojgurung1992)
+- Frontend Mentor - [@sarojgurung1992](hhttps://www.frontendmentor.io/profile/Sarojgurung1992)
 
 ## Acknowledgments
 
