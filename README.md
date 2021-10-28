@@ -31,8 +31,8 @@ Reversing the order of the columns shown.
 
 ### Links
 
-- Solution URL: [Github](https://github.com/sarojgurung/Stats-Card)
-- Live Site URL: [Github Live](https://sarojgurung.github.io/Stats-Card/)
+- Solution URL: [This should be Frontend Mentor](https://github.com/sarojgurung/Stats-Card)
+- Live Site URL: [Github](https://sarojgurung.github.io/Stats-Card/)
 
 ## My process
 
